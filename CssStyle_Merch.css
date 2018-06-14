@@ -9,6 +9,7 @@ div.scrollmenu {
     white-space: nowrap;
 }
 
+/*Navigation Bar Code*/
 div.scrollmenu a {
     display: inline-block;
     color: white;
@@ -20,6 +21,8 @@ div.scrollmenu a {
 div.scrollmenu a:hover {
     background-color: #777;
 }
+
+/*Code for Padding the Images*/
 .jelly_jacket001{
 	padding-left: 100px;
 }

@@ -1,8 +1,10 @@
+/*Page color and Font size*/
 body {
     		background-color: #00cc66;
     		font-size: xx-large;
 }
 
+/*Navigation Bar Design*/
 div.scrollmenu {
     background-color: #333;
     overflow: auto;
