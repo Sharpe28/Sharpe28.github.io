@@ -10,11 +10,11 @@ function homicideFunction() {
 // Bright Future: Story Content and Title
 function camoflaugeFunction() {
     document.getElementById("homicide").innerHTML = "The University of Transgression had discovered a new species, or evolution, of Jelly it has been named jellmeleon (Morone saxatilis). They scientist were sent on expedition to eastern Asia, where they initially were determined to study the local birds for any effects from polution, and they had stumbled upon a strange looking mango. to their astonishment, the mango was actually a jelly who was able to disguise itself as the fruit. Dr. Richtofen, a biology profesor, had told reporters, 'This new jelly species is an exciting transition, this species of jelly may become the new norm since as current research shows the previous species of jellies have had difficulty surviving the harsh environment. This new species of jellies may quite possibly be the biggest factor in the future generations of jellies, they might began an exponential growth. But who can say this is a definite, further research is required to make such giant claims.'the future for jellies is finally starting to look bright ever since the incident that brought a damper on jelly populations that we now call 'The Catalyzation'";
-    document.getElementById("titleStory").innerHTML = "A Bright Future for Jellies"
+    document.getElementById("titleStory").innerHTML = "A Bright Future for Jellies";
 }
 
 //Murder Convict: Story Content and Title
 function rebelFunction() {
     document.getElementById("homicide").innerHTML = "A jelly prison that is located in the South Pole has reported a missing inmate, on May 18th 2057. The escapee's name is Jerry 'Kreed' Mondello, he is sentenced to life in prison for murdering several men, they were all caucasion elderly bald men. The guards on duty reported that there was scrap metal that had been sharpened. According to some reports by the other inmates and staff they had been finding many metalic tables and carts breaking because of missing parts. Investigators believe that he used the metal stakes as a way to dig through his cell wall. Currently, police officers are on high alert and are asking the public to be carful at this time. They are also asking for the publics help if anyone happens to see him to report it and if anyone knows where he might go to go to a local police station to share your info.";
-    document.getElementById("titleStory").innerHTML = "Murder Convict on the Loose"
+    document.getElementById("titleStory").innerHTML = "Murder Convict on the Loose";
 }
